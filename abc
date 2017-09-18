@@ -17,4 +17,6 @@ syntax man
 2. cal
 this is used to display calender of current month
 syntax cal
-
+6. uname
+this is uesd to display username of computer
+syntax uname
