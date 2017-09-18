@@ -7,3 +7,6 @@ there is no breaking news
 1. man
 this is used to tell about syntax of any command
 syntax man
+2. cal
+this is used to display calender of current month
+syntax cal
