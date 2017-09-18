@@ -4,8 +4,17 @@ i am fine
 you tell
 i am also fine
 there is no breaking news
+
 now we are going to start linux commands
 linux commands will work in terminal in linux
 3. date
 this is used to display the system date
 syntax date
+
+1. man
+this is used to tell about syntax of any command
+syntax man
+2. cal
+this is used to display calender of current month
+syntax cal
+
