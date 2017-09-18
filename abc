@@ -15,6 +15,7 @@ this command is ued to display list of commands
 syntax ls
 
 
+
 now we are going to start linux commands
 linux commands will work in terminal in linux
 3. date
@@ -33,3 +34,7 @@ syntax uname
 
 hi
 who are you
+
+hi
+where are you
+
