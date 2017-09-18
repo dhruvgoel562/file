@@ -5,6 +5,16 @@ you tell
 i am also fine
 there is no breaking news
 
+
+4. echo
+this is ued to display message on terminal
+syntax echo message
+
+5. ls
+this command is ued to display list of commands
+syntax ls
+
+
 now we are going to start linux commands
 linux commands will work in terminal in linux
 3. date
@@ -20,3 +30,4 @@ syntax cal
 6. uname
 this is uesd to display username of computer
 syntax uname
+
